@@ -1,7 +1,0 @@
-Add customer management utility files
-
-- Add role-based filtering with admin/assistant permissions
-- Add customer validation with Kenyan phone support
-- Add search helpers with MongoDB integration
-- Add audit logging for security tracking
-- Add role permission middleware

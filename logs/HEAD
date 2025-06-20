@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 12b0621c76b7810d63d766be8c3930727efe7d93 Your Name <you@example.com> 1750398567 +0300	commit (initial): feat: Add MongoDB database connection and update server configuration
+12b0621c76b7810d63d766be8c3930727efe7d93 88843be0cfbdc68304a40e1882d8e951385fb4b7 Your Name <you@example.com> 1750399839 +0300	commit: Add User and Customer models with authentication system
+88843be0cfbdc68304a40e1882d8e951385fb4b7 764b55518e928bc2a61ebc9e103afdcff04e59e5 Your Name <you@example.com> 1750443285 +0300	commit: Add customer management utility files
